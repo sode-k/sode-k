@@ -1,7 +1,9 @@
 # Hi there!
 **I'm sode-k.**<br>
 I'm currently a **3rd year junior high school student** in Japan and passionate about **LLM**, **Text classificarion**, **Python**, etc.<br>
-I love exploring data-driven problems and building solutions with Python, web technologies, and even hardware like the Raspberry Pi.
+I love exploring data-driven problems and building solutions with Python, web techs, and even hardware like the Raspberry Pi.
+
+
 
 <picture>
   <img src="/metrics.plugin.isocalendar.svg" alt="Metrics">
